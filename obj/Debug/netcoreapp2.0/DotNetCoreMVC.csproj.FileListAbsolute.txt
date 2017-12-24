@@ -3,9 +3,9 @@ C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\bin\Debug\netcoreapp2.0\Dot
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\bin\Debug\netcoreapp2.0\DotNetCoreMVC.runtimeconfig.dev.json
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\bin\Debug\netcoreapp2.0\DotNetCoreMVC.dll
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\bin\Debug\netcoreapp2.0\DotNetCoreMVC.pdb
-C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\obj\Debug\netcoreapp2.0\DotNetCoreMVC.csprojResolveAssemblyReference.cache
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\obj\Debug\netcoreapp2.0\DotNetCoreMVC.csproj.CoreCompileInputs.cache
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\obj\Debug\netcoreapp2.0\DotNetCoreMVC.AssemblyInfoInputs.cache
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\obj\Debug\netcoreapp2.0\DotNetCoreMVC.AssemblyInfo.cs
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\obj\Debug\netcoreapp2.0\DotNetCoreMVC.dll
 C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\obj\Debug\netcoreapp2.0\DotNetCoreMVC.pdb
+C:\Users\nj\source\repos\DotNetCoreMVC\DotNetCoreMVC\obj\Debug\netcoreapp2.0\DotNetCoreMVC.csprojResolveAssemblyReference.cache
